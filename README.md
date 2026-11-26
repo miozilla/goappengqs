@@ -1,5 +1,5 @@
 # goappengqs 🏃📱
-goappengqs : | Go language Environments | App Engine, Golang |
+goappengqs : | Go Language Environments | App Engine, Golang |
 
 
 ## Objectives
